@@ -7,3 +7,4 @@ source = int(input('Enter source pole: '))
 spare = int(input('Enter spare pole: '))
 target = int(input('Enter target pole: '))
 hanoi(n, source, spare, target)
+
